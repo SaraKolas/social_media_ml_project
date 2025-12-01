@@ -80,7 +80,7 @@ social_media_ml/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SaraKolas/social_media_ml_project
 cd social_media_ml
 ```
 
